@@ -1,0 +1,40 @@
+Aké je hlavné mesto Slovenska?;Bratislava;Košice;Banská Bystrica;Nitra;0
+Koľko krajov má Slovensko?;6;8;10;12;1
+Aká je najvyššia hora Slovenska?;Kriváň;Chopok;Gerlachovský štít;Ďumbier;2
+Ktorá rieka preteká cez Bratislavu?;Váh;Hron;Morava;Dunaj;3
+Kedy vznikla Slovenská republika?;1990;1991;1992;1993;3
+Aká je najväčšia slovenská jaskyňa?;Ochtinská aragonitová jaskyňa;Demänovská ľadová jaskyňa;Dobšinská ľadová jaskyňa;Domica;2
+Koľko obyvateľov má Slovensko približne?;5 miliónov;7 miliónov;9 miliónov;10 miliónov;0
+Aká je národná mena Slovenska?;Koruna;Euro;Forint;Zlotý;1
+Ktorý slovenský hrad je zapísaný v UNESCO?;Trenčiansky hrad;Spišský hrad;Bratislavský hrad;Oravský hrad;1
+Ktorá rieka je najdlhšia na Slovensku?;Dunaj;Hron;Váh;Nitra;2
+Aký je tradičný slovenský pokrm?;Bryndzové halušky;Sviečková;Guláš;Štrúdľa;0
+Kde sa nachádza Štrbské pleso?;Nízke Tatry;Západné Tatry;Vysoké Tatry;Malá Fatra;2
+Ktoré slovenské kúpele sú známe termálnymi prameňmi?;Piešťany;Bojnice;Rajecké Teplice;Dudince;0
+Kto bol prvý prezident Slovenskej republiky?;Michal Kováč;Rudolf Schuster;Ivan Gašparovič;Andrej Kiska;0
+Ktorý slovenský folklórny festival je najznámejší?;Detva;Východná;Myjava;Terchová;1
+Aký je najväčší národný park na Slovensku?;TANAP;NAPANT;Slovenský raj;Malá Fatra;0
+Koľko jazykov sa oficiálne používa na Slovensku?;1;2;3;4;1
+Ktorý štát susedí so Slovenskom na juhu?;Česko;Maďarsko;Poľsko;Ukrajina;1
+V ktorom roku sa Slovensko stalo členom Európskej únie?;2002;2003;2004;2005;2
+Aké je hlavné mesto Žilinského kraja?;Banská Bystrica;Žilina;Martin;Ružomberok;1
+Ktorá slovenská rieka tvorí hranicu medzi Slovenskom a Ukrajinou?;Morava;Dunaj;Latorica;Tisa;2
+Ktorý slovenský vrch je známy svojím typickým tvarom "kríža"?;Kriváň;Ďumbier;Chopok;Sitno;0
+Aká je najväčšia vodná nádrž na Slovensku?;Zemplínska šírava;Liptovská Mara;Oravská priehrada;Gabčíkovo;1
+Ktorý slovenský spisovateľ napísal dielo "Slávy dcéra"?;Jozef Gregor Tajovský;Ľudovít Štúr;Pavol Országh Hviezdoslav;Ján Kollár;3
+Ktoré mesto je známe svojím baníctvom?;Banská Štiavnica;Kremnica;Banská Bystrica;Spišská Nová Ves;0
+Ktorý slovenský sviatok sa oslavuje 29. augusta?;Deň ústavy;Deň boja za slobodu;Výročie SNP;Deň svätého Cyrila a Metoda;2
+Ktorý slovenský hrad je známy ako "hrad na skale"?;Čachtický hrad;Spišský hrad;Strečno;Devín;3
+Ktorý slovenský skladateľ zložil operu "Svätopluk"?;Eugen Suchoň;Ján Cikker;Mikuláš Schneider-Trnavský;Alexander Moyzes;0
+Ktoré mesto sa považuje za srdce Oravy?;Tvrdošín;Námestovo;Dolný Kubín;Ružomberok;2
+Ktorý slovenský vrch je známy svojím tvarom pyramídy?;Veľký Rozsutec;Kriváň;Sitno;Chopok;0
+Aký je hlavný symbol slovenského štátneho znaku?;Hory;Rieka;Trojičný kríž;Lipa;2
+Kde sa nachádza najväčší gotický kostol na Slovensku?;Košice;Bratislava;Trnava;Levoča;0
+Aká je národná farba Slovenska?;Modrá;Červená;Zelená;Modrá, biela a červená;3
+Ktorý slovenský kraj je najväčší podľa rozlohy?;Banskobystrický;Prešovský;Košický;Trenčiansky;0
+Ktorý región Slovenska je známy výrobou vín?;Orava;Záhorie;Tokaj;Liptov;2
+Ktorý slovenský športovec získal najviac olympijských medailí?;Peter Sagan;Matej Tóth;Pavol a Peter Hochschornerovci;Anastasia Kuzminová;3
+Ktoré slovenské mesto je známe svojou výrobou skla?;Trenčín;Poltár;Lednické Rovne;Zvolen;2
+Ktorá slovenská rieka preteká cez mesto Žilina?;Dunaj;Hron;Váh;Nitra;2
+Ktorý slovenský hrad je známy ako miesto úkrytu Alžbety Bátoriovej?;Strečno;Devín;Čachtický hrad;Oravský hrad;2
+Ktoré mesto je známe ako centrum slovenského folklóru?;Detva;Liptovský Mikuláš;Terchová;Východná;3
